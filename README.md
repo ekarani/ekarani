@@ -2,7 +2,7 @@
 ### [PT-BR] 
 - 🔭 Estudante de Ciência da Computação fascinada por Infraestrutura de Sistemas.
 - 🌱 Estudando assuntos relacionados a DevOps e SRE.
-- :computer: Trabalho na equipe de suporte do Laboratório de Sistemas Distribuídos da Universidade Federal de Campina Grande.
+- :computer: Trabalhei na equipe de suporte do Laboratório de Sistemas Distribuídos da Universidade Federal de Campina Grande. Agora estou me aventurando com SPIFFE/SPIRE.
 - :earth_americas: Faço parte do [Elas@Computação](https://github.com/elasComputacao) e [Guardians](https://github.com/Guardians-DSC).
 - :art: Desenhista e contrabaixista nas horas vagas
 - 😄 Ela/Dela
@@ -10,7 +10,7 @@
 ### [ENG-US]
 - 🔭 Computer Science student fascinated by Systems Infrastructure. 
 - 🌱 Studying subjects related to DevOps and SRE.
-- :computer: I work in the Infrastructure Support Team of the Distributed Systems Laboratory at the Federal University of Campina Grande.
+- :computer: I worked in the Infrastructure Support Team of the Distributed Systems Laboratory at the Federal University of Campina Grande. Now I'm adventuring with SPIFFE/SPIRE
 - :earth_americas: I'm part of [Elas@Computação](https://github.com/elasComputacao) and [Guardians](https://github.com/Guardians-DSC).
 - :art: Visual artist and double bassist in my spare time.
 - 😄 She/Her
